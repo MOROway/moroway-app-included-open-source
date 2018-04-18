@@ -8,9 +8,11 @@ GitHub Links to original projects:
 - code
 
 https://github.com/google/material-design-lite
+
 https://github.com/HubSpot/pace
 
 - fonts
 
 https://github.com/google/material-design-icons
+
 https://github.com/google/fonts/tree/master/apache/roboto
