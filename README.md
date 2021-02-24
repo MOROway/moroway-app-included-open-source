@@ -9,8 +9,6 @@ GitHub Links to original projects:
 
 - code
 
-  https://github.com/google/material-design-lite
-
    https://github.com/HubSpot/pace
 
 - fonts
